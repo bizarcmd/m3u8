@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:65535
+#EXT-X-VERSION:3
+#EXTINF:65535,
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/br02D3ST7-560ibwmh2szDwseKZjBFRmktNly6VNpmLVYODI6wCBiWku4rL-x_puSjVx8aBbbXaKQ_8-2rOJbA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
