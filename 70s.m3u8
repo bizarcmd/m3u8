@@ -1,0 +1,21 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+
+# AUDIO groups
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI="https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=it&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5289&ads_rtv_content_language=eng&ads_rtvid=271861&ads_streaming_id=61eefdd8-5381-4881-8404-e5d1cf0c67f6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",URI="https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=it&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5289&ads_rtv_content_language=eng&ads_rtvid=271861&ads_streaming_id=61eefdd8-5381-4881-8404-e5d1cf0c67f6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor"
+# Variants
+#EXT-X-STREAM-INF:BANDWIDTH=3330000,AVERAGE-BANDWIDTH=2913000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="aud1"
+hhttps://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=it&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5289&ads_rtv_content_language=eng&ads_rtvid=271861&ads_streaming_id=61eefdd8-5381-4881-8404-e5d1cf0c67f6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXT-X-STREAM-INF:BANDWIDTH=2312000,AVERAGE-BANDWIDTH=2024000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="aud1"
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=it&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5289&ads_rtv_content_language=eng&ads_rtvid=271861&ads_streaming_id=61eefdd8-5381-4881-8404-e5d1cf0c67f6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+
+##EXTM3U
+##EXT-X-TARGETDURATION:65535
+##EXT-X-VERSION:2
+##EXTINF:65535,
+##http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/165105
+##http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/165105
+##http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/165105
