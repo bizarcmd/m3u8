@@ -4,7 +4,7 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,AUDIO="URI"
 https://lnc-racing-america.tubi.video/playlistR480p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,AUDIO="URI"
-https://lnc-racing-america.tubi.video/playlistR480p.m3u8
+https://lnc-racing-america.tubi.video/playlistR360p.m3u8
 ###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000,AUDIO="URI"
 ##https://lnc-racing-america.tubi.video/playlistR720p.m3u8
 
