@@ -4,7 +4,7 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,AUDIO="URI"
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/stream_03/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,AUDIO="URI"
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/stream_01/index.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/stream_03/index.m3u8
 ###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000,AUDIO="URI"
 ##https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/stream_04/index.m3u8
 
