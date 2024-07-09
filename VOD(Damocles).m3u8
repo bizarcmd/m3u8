@@ -3,8 +3,10 @@
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="eng",NAME="English",AUTOSELECT=YES,DEFAULT=YES,URI="https://vod-content.plexvideos.com/streams/64c824197a36935c7b8f19bf/9409bcaa-0a9a-4e35-939b-bfb3e3e42a1f/stream_6.m3u8"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,AUDIO="URI"
 https://vod-content.plexvideos.com/streams/64c824197a36935c7b8f19bf/9409bcaa-0a9a-4e35-939b-bfb3e3e42a1f/stream_0.m3u8
+https://raw.githubusercontent.com/bizarcmd/m3u8/main/subtitles.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,AUDIO="URI"
 https://vod-content.plexvideos.com/streams/64c824197a36935c7b8f19bf/9409bcaa-0a9a-4e35-939b-bfb3e3e42a1f/stream_0.m3u8
+https://raw.githubusercontent.com/bizarcmd/m3u8/main/subtitles.m3u8
 ###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000,AUDIO="URI"
 ##https://vod-content.plexvideos.com/streams/64c824197a36935c7b8f19bf/9409bcaa-0a9a-4e35-939b-bfb3e3e42a1f/stream_0.m3u8
 
