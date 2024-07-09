@@ -3,6 +3,10 @@
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="eng",NAME="English",AUTOSELECT=YES,DEFAULT=YES,URI="https://vod.provider.plex.tv/library/parts/62be17cd5e5872e950c30979/subtitles.m3u8?duration=4284&url=https%3A%2F%2Fvod-static.plex.tv%2Fsubtitles%2F6305721132112%2Feng.vtt&includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ywbdzUENsqzGjjVeriK5"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,AUDIO="URI"
 https://vod-content.plexvideos.com/streams/62be17cd5e5872e950c30979/83572aa7-e2d6-4970-af35-5fb19c160f9a/stream_8.m3u8
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="eng",NAME="English",AUTOSELECT=YES,DEFAULT=YES,URI="https://vod-content.plexvideos.com/streams/62be17cd5e5872e950c30979/83572aa7-e2d6-4970-af35-5fb19c160f9a/stream_7.m3u8"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,AUDIO="URI"
 https://vod-content.plexvideos.com/streams/62be17cd5e5872e950c30979/83572aa7-e2d6-4970-af35-5fb19c160f9a/stream_8.m3u8
 ###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000,AUDIO="URI"
