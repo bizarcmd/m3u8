@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:4284
+#EXT-X-VERSION:4
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:4284,
+https://raw.githubusercontent.com/bizarcmd/m3u8/main/eng.vtt
+#EXT-X-ENDLIST
