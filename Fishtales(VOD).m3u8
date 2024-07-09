@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="eng",NAME="English",AUTOSELECT=YES,DEFAULT=YES,URI="https://vod.provider.plex.tv/library/parts/62be17cd5e5872e950c30979/subtitles.m3u8?duration=4284&url=https%3A%2F%2Fvod-static.plex.tv%2Fsubtitles%2F6305721132112%2Feng.vtt&includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ywbdzUENsqzGjjVeriK5"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="eng",NAME="English",AUTOSELECT=YES,DEFAULT=YES,URI="https://vod-content.plexvideos.com/streams/62be17cd5e5872e950c30979/83572aa7-e2d6-4970-af35-5fb19c160f9a/stream_7.m3u8"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,AUDIO="URI"
 https://vod-content.plexvideos.com/streams/62be17cd5e5872e950c30979/83572aa7-e2d6-4970-af35-5fb19c160f9a/stream_8.m3u8
 
@@ -18,7 +18,7 @@ https://vod-content.plexvideos.com/streams/62be17cd5e5872e950c30979/83572aa7-e2d
 ##http://clientsportals.com:2095/live/d4Je5xwD/yadTXB63/14590.m3u8
 
 ###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
-##http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-639b8d803f4612cc150a5721/variant.m3u8?url=62fece18cdc034a8058ad597b3da5757-b8aab20245142a17ff5d2fffebe628a03539ddb0bd997146320cdd8c0d208fe4a3a8e9866c0fc4764e0e8fc427d7314812f73e5f23378796ad4d1d91eaed714cb29837f3c3b4871113ae10059d1b08dcae5ede97acda698f7dc71d6141ba0564&x-plex-token=5KKAax8HfsSPLzTJUudD&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1720380744
+##http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
 ###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
 ##http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/01.m3u8
 ###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
