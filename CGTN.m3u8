@@ -1,15 +1,12 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
-http://210.210.155.37/x6bnqe/s/s20/01.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-http://210.210.155.37/x6bnqe/s/s20/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
-http://210.210.155.37/x6bnqe/s/s20/02.m3u8
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
 
-
-##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
-##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/02.m3u8
-##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/01.m3u8
-##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
-##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/03.m3u8
+# AUDIO groups
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI=https://cdngb196.indihometv.com/atm/hlsv3/transtv/playlist.m3u8?app=VLCPlayer"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",URI="https://cdngb196.indihometv.com/atm/hlsv3/transtv/playlist.m3u8?app=VLCPlayer"
+# Variants
+#EXT-X-STREAM-INF:BANDWIDTH=3330000,AVERAGE-BANDWIDTH=2913000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="aud1"
+https://cdngb196.indihometv.com/atm/hlsv3/transtv/playlist.m3u8?app=VLCPlayer"
+#EXT-X-STREAM-INF:BANDWIDTH=2312000,AVERAGE-BANDWIDTH=2024000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="aud1"
+https://cdngb196.indihometv.com/atm/hlsv3/transtv/playlist.m3u8?app=VLCPlayer"
