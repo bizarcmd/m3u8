@@ -2,7 +2,7 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=1920x1080
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-#https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
+#https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_240p/chunks.m3u8
 
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=1920x1080
 ##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/02.m3u8
