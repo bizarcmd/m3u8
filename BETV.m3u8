@@ -2,7 +2,7 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=640x360
 https://flv.intechmedia.net/live/ch58.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-https://flv.intechmedia.net/live/ch58.m3u8
+#https://flv.intechmedia.net/live/ch58.m3u8
 
 ##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=640x360
 ##https://flv.intechmedia.net/live/ch107.m3u8
