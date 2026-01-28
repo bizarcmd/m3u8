@@ -4,6 +4,6 @@ https://mic.siar.us/mic/live/mic_720p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,RESOLUTION=1280x720
 #https://mic.siar.us/mic/live/mic_720p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=800000,RESOLUTION=854x480
-https://mic.siar.us/mic/live/mic_480p.m3u8
+https://mic.siar.us/mic/live/mic_720p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000,RESOLUTION=640x360
-#https://mic.siar.us/mic/live/mic_480p.m3u8
+#https://mic.siar.us/mic/live/mic_720p.m3u8
