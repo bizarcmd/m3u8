@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=1920x1080
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/782/res=720p/codec=h264/file/master.m3u8?hdnts=exp=1769581160~acl=/stream/782/res=720p/codec=h264/file/master.m3u8!/stream/782/file/*/aac/*!/stream/782/file/*/*-720p/*!/stream/782/file/*/*-480p/*!/stream/782/file/*/*-360p/*~id=allUsers~hmac=8be36878b4c9e36aa9c8ecf94b8ba24f08ac057e612375b6ada3750d3c03150a
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=1920x1080
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/782/res=720p/codec=h264/file/master.m3u8?hdnts=exp=1769581160~acl=/stream/782/res=720p/codec=h264/file/master.m3u8!/stream/782/file/*/aac/*!/stream/782/file/*/*-720p/*!/stream/782/file/*/*-480p/*!/stream/782/file/*/*-360p/*~id=allUsers~hmac=8be36878b4c9e36aa9c8ecf94b8ba24f08ac057e612375b6ada3750d3c03150a
