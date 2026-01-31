@@ -4,6 +4,7 @@
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=800000,RESOLUTION=854x480
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-F9560 Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w255728578_b744100_sleng.m3u8#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000,RESOLUTION=640x360
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w255728578_b744100_sleng.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000,RESOLUTION=640x360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-F9560 Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w255728578_b744100_sleng.m3u8
