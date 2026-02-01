@@ -8,8 +8,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000,RESOLUTION=640x360
 https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
-
-
+#EXTINF:-3 ,Alwafa Tarim TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #EXTM3U
 #EXT-X-VERSION:7
 #EXT-X-INDEPENDENT-SEGMENTS
@@ -23,3 +23,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 
 
 
+
+##EXTM3U
+##EXT-X-TARGETDURATION:65535
+##EXT-X-VERSION:2
+##EXTINF:65535,
+##http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/165105
+##http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/165105
+##http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/165105
+###https://viamotionhsi.netplus.ch/live/eds/nhk/browser-dash/nhk.mpd
