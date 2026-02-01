@@ -3,10 +3,10 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 
 # AUDIO groups
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI="http://89.105.221.127/tlc/tracks-a2/mono.m3u8?token=test"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Undetermined",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,URI="https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8"
 # Variants
 #EXT-X-STREAM-INF:BANDWIDTH=3330000,AVERAGE-BANDWIDTH=2913000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="aud1"
-http://89.105.221.127/tlc/tracks-v1a1/mono.m3u8?token=test
+https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8
 
 
 
