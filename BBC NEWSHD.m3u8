@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.mpd|user-agent=Mozilla/5.0
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist1080p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.mpd|user-agent=Mozilla/5.0
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist1080p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.mpd|user-agent=Mozilla/5.0
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist1080p.m3u8
 
 
 
