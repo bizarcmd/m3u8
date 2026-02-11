@@ -1,10 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=1920x1080
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
-
-##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=1920x1080
-##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/02.m3u8
-##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-##http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/01.m3u8
+https://midcache2.rctiplus.id/live/9BALLOH_720p/index.m3u8
